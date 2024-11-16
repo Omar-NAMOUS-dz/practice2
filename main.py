@@ -1,4 +1,5 @@
 import sklearn as sk
 
-while True:
-    pass
+from features.test import  sum
+ 
+print(sum (4, 5))
