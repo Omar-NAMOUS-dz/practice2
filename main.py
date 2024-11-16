@@ -1,2 +1,5 @@
 import sklearn as sk
-print("Hello")
+
+c = 0
+while c == 0:
+    c = int(input())
